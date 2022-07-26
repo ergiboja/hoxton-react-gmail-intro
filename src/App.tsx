@@ -18,6 +18,8 @@ function App(): JSX.Element {
      <Headeri/>
       <Leftmenu/>
       <main className="email-view">
+        <Emailtb />
+        <Emailcontent/>
         
         
         
